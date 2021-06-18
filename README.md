@@ -9,14 +9,19 @@ rdellamonica@usal.es
 dellamonicariccardo@gmail.com
 
 ## CV
+*****
 
-### Education
+
 
 ### Experience
 
 #### Visiting student
 at **Universidad de Salamanca**
 Invited by: Prof. Fernando Atrio-Barandela, Dr. Ivan de Martino
+
+### Education
+
+*****
 
 #### M.S. in Astrophysics
 2016 - 2020
@@ -32,7 +37,7 @@ Institute: Università degli Studi di Napoli “Federico II”
 Thesis: X-Ray Spectroscopy of the gaseous halo of NGC1399
 Supervisor: Prof. Maurizio Paolillo
 
-
+*****
 
 ### Publications
 
