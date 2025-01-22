@@ -1,10 +1,6 @@
 # Riccardo Della Monica
-# PhD at University of Salamanca
+### PhD at University of Salamanca
 
-##### Address
-
-##### Phone
-(+39) 331 3186344
 ##### Email
 rdellamonica@usal.es
 dellamonicariccardo@gmail.com
