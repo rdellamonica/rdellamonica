@@ -1,7 +1,8 @@
 # Riccardo Della Monica
+# PhD at University of Salamanca
 
 ##### Address
-Salita San Raffaele, 22 80136, Naples, Italy
+
 ##### Phone
 (+39) 331 3186344
 ##### Email
@@ -11,17 +12,16 @@ dellamonicariccardo@gmail.com
 ## CV
 *****
 
-
-
-### Experience
-
-#### Visiting student
-at **Universidad de Salamanca**
-Invited by: Prof. Fernando Atrio-Barandela, Dr. Ivan de Martino
-
 ### Education
 
 *****
+
+#### PhD in Theoretical Physics
+2021- 2024
+*Sobresaliente cum laude*
+University of Salamanca
+Thesis: The Galactic Center as a laboratory for dark matter and theories of modified gravity
+Supervisors: Prof. Mariafelicia De Laurentis, Dr. Ziri Younsi
 
 #### M.S. in Astrophysics
 2016 - 2020
@@ -41,15 +41,4 @@ Supervisor: Prof. Maurizio Paolillo
 
 ### Publications
 
-
-#### Orbital precession of the S2 star in Scalar-Tensor-Vector-Gravity
-*Riccardo Della Monica, Ivan de Martino, Mariafelicia de Laurentis*
-[(2021, arXiv:2105.12687)](#)
-
-#### f(R)-gravity after the detection of the orbital precession of the S0-2 star around the Galactic Centre massive black hole 
-*Ivan De Martino, Riccardo Della Monica, Mariafelicia De Laurentis*
-[(2021, arXiv:2106.06821)](#)
-
-#### STVG shadows and particle motion
-*Riccardo Della Monica, Mariafelicia De Laurentis, Ziri Younsi*
-(2021, in preparation)
+[https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20R.della.Monica.1&ui-citation-summary=true][InspireHEP]
